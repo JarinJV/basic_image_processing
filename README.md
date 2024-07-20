@@ -8,3 +8,5 @@ This file loads the MNIST dataset, preprocesses the data by normalizing and resh
 
 `gui.ipynb`
 This file creates a web application where users can draw a digit, and the trained model(model.ipynb) predicts the digit. Have used Gradio interface, which provide a user-friendly way to interact with the model without needing any additional setup or configuration.
+
+![image](https://github.com/user-attachments/assets/1db7cb46-abda-48ca-8d9d-e4bb53a8f3b9)
